@@ -1,0 +1,776 @@
+﻿country_name;country_code;series_name;series_code;year;value;year_relative
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2002;19363736264;-20
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2003;23533791209;-19
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2004;31734065934;-18
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2005;44530494505;-17
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2006;60882142857;-16
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2007;79712087912;-15
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2008;1,1527E+11;-14
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2009;97798351648;-13
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2011;1,67775E+11;-11
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2010;1,23627E+11;-12
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2012;1,86834E+11;-10
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2013;1,98728E+11;-9
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2014;2,06225E+11;-8
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2015;1,6174E+11;-7
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2016;1,51732E+11;-6
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2017;1,61099E+11;-5
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2018;1,83335E+11;-4
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2019;1,76371E+11;-3
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2020;1,44412E+11;-2
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2021;1,79732E+11;-1
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2022;2,35709E+11;0
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2023;2,17309E+11;1
+Qatar;QAT;GDP (current US$);NY.GDP.MKTP.CD;2024;2,19163E+11;2
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2002;7,18215168;-20
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2003;3,719958677;-19
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2004;19,21891534;-18
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2005;7,492758483;-17
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2006;26,17024567;-16
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2007;17,98565682;-15
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2008;17,66355636;-14
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2009;11,95656113;-13
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2011;13,37523455;-11
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2010;19,59217448;-12
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2012;4,730085137;-10
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2013;5,556103642;-9
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2014;5,334341598;-8
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2015;4,753323729;-7
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2016;3,064105032;-6
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2017;-1,497562091;-5
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2018;1,23483197;-4
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2019;0,688255894;-3
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2020;-3,557502843;-2
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2021;1,626935873;-1
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2022;4,184970185;0
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2023;1,539791177;1
+Qatar;QAT;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2024;2,359705869;2
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2002;27226,65935;-20
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2003;31602,47087;-19
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2004;41035,50084;-18
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2005;53949,67641;-17
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2006;62582,44531;-16
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2007;65954,34195;-15
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2008;80781,40392;-14
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2009;60785,73516;-13
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2011;103261,5103;-11
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2010;76462,61195;-12
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2012;108470,387;-10
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2013;103697,0628;-9
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2014;95840,68989;-8
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2015;68985,24334;-7
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2016;61253,6218;-6
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2017;63279,87675;-5
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2018;71039,93082;-4
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2019;66841,36232;-3
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2020;51683,56811;-2
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2021;71751,93634;-1
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2022;88701,46898;0
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2023;81816,9798;1
+Qatar;QAT;GDP per capita (current US$);NY.GDP.PCAP.CD;2024;76688,69417;2
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2002;0,87;-20
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2003;0,87;-19
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2004;0,87;-18
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2005;0,87;-17
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2006;0,87;-16
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2007;0,52;-15
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2008;0,31;-14
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2009;0,31;-13
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2011;0,56;-11
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2010;0,45;-12
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2012;0,48;-10
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2013;0,28;-9
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2014;0,2;-8
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2015;0,17;-7
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2016;0,15;-6
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2017;0,14;-5
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2018;0,11;-4
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2019;0,1;-3
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2020;0,14;-2
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2021;0,14;-1
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2022;0,13;0
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2023;0,13;1
+Qatar;QAT;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2024;0,13;2
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2002;0,24;-20
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2003;2,264565044;-19
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2004;6,79933665;-18
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2005;8,814395323;-17
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2006;11,83580962;-16
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2007;13,75816258;-15
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2008;15,05014516;-14
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2009;-4,863278016;-13
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2011;1,138366235;-11
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2010;-2,425256752;-12
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2012;2,315348534;-10
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2013;3,221977568;-9
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2014;3,349720857;-8
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2015;1,814077239;-7
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2016;2,676591701;-6
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2017;0,394878914;-5
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2018;0,255815383;-4
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2019;-0,666641125;-3
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2020;-2,54031503;-2
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2021;2,304465657;-1
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2022;4,995275537;0
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2023;3,027648992;1
+Qatar;QAT;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2024;1,267343103;2
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2009;#VALOR!;-13
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2011;#VALOR!;-11
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2010;#VALOR!;-12
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2012;#VALOR!;-10
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2013;#VALOR!;-9
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2014;#VALOR!;-8
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2015;#VALOR!;-7
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2016;1482000;-6
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2017;2057000;-5
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2018;1700000;-4
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2019;2324000;-3
+Qatar;QAT;International tourism, number of arrivals;ST.INT.ARVL;2020;2612000;-2
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2002;2839000;-20
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2003;2941000;-19
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2004;2938000;-18
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2005;2256000;-17
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2006;1819000;-16
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2007;2136500;-15
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2008;582000;-14
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2009;#VALOR!;-13
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2011;#VALOR!;-11
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2010;#VALOR!;-12
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2012;#VALOR!;-10
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2013;32,64712559;-9
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2014;34,86569464;-8
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2015;31,51101184;-7
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2016;34,30788878;-6
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2017;41,88871491;-5
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2018;46,01657063;-4
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2019;41,11796712;-3
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2020;42,96404915;-2
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2021;29,03183549;-1
+Qatar;QAT;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2022;31,6551223;0
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2002;27,14439899;-12
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2003;27,82789033;-11
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2004;31,79005322;-10
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2005;37,06720383;-9
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2006;48,86908279;-8
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2007;42,61134737;-7
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2008;40,65905347;-6
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2009;43,73536594;-5
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2011;43,84915085;-3
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2010;36,80153479;-4
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2012;30,64323254;-2
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2013;#VALOR!;-1
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2014;#VALOR!;0
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2015;5,09795E+11;1
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2016;5,58234E+11;2
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2017;6,69289E+11;3
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2018;8,91634E+11;4
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2019;1,10763E+12;5
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2020;1,39711E+12;6
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2021;1,69586E+12;7
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2022;1,667E+12;8
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2023;2,61616E+12;9
+Brazil;BRA;GDP (current US$);NY.GDP.MKTP.CD;2024;2,20884E+12;10
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2002;2,46523E+12;-12
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2003;2,47282E+12;-11
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2004;2,45604E+12;-10
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2005;1,80221E+12;-9
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2006;1,79569E+12;-8
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2007;2,06351E+12;-7
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2008;1,91693E+12;-6
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2009;1,87329E+12;-5
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2011;1,47611E+12;-3
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2010;1,67065E+12;-4
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2012;1,95192E+12;-2
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2013;2,19113E+12;-1
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2014;2,18582E+12;0
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2015;3,053461857;1
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2016;1,140828999;2
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2017;5,759964637;3
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2018;3,202132062;4
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2019;3,961988709;5
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2020;6,069870607;6
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2021;5,094195448;7
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2022;-0,125812003;8
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2023;3,974423079;9
+Brazil;BRA;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2024;7,528225818;10
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2002;1,921175985;-12
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2003;3,00482267;-11
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2004;0,50395574;-10
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2005;-3,545763393;-9
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2006;-3,275916906;-8
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2007;1,322869054;-7
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2008;1,783666761;-6
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2009;1,220777823;-5
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2011;-3,276758796;-3
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2010;4,76260438;-4
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2012;3,016694354;-2
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2013;3,241655328;-1
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2014;3,419315166;0
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2015;2855,940171;1
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2016;3090,606891;2
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2017;3663,822625;3
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2018;4827,781659;4
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2019;5934,145619;5
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2020;7409,690038;6
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2021;8908,333385;7
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2022;8678,658473;8
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2023;13396,62632;9
+Brazil;BRA;GDP per capita (current US$);NY.GDP.PCAP.CD;2024;11403,284;10
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2002;12521,72385;-12
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2003;12458,89034;-11
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2004;12274,99416;-10
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2005;8936,195589;-9
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2006;8836,28546;-8
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2007;10080,50787;-7
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2008;9300,660729;-6
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2009;9029,833044;-5
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2011;7074,194075;-3
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2010;7972,536961;-4
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2012;9281,332821;-2
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2013;10377,58977;-1
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2014;10310,54888;0
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2015;10,641;1
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2016;11,168;2
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2017;10,072;3
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2018;10,551;4
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2019;9,692;5
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2020;9,28;6
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2021;8,268;7
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2022;9,419;8
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2023;7,578;9
+Brazil;BRA;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2024;8,42;10
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2002;7,251;-12
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2003;7,071;-11
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2004;6,755;-10
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2005;8,538;-9
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2006;11,58;-8
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2007;12,792;-7
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2008;12,329;-6
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2009;11,936;-5
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2011;13,697;-3
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2010;13,158;-4
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2012;9,231;-2
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2013;7,947;-1
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2014;6,801;0
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2015;8,450164377;1
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2016;14,71491972;2
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2017;6,5971851;3
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2018;6,869537209;4
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2019;4,183568129;5
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2020;3,641272991;6
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2021;5,678593903;7
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2022;4,888034799;8
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2023;6,636449622;9
+Brazil;BRA;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2024;5,038726901;10
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2002;5,40349914;-12
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2003;6,204310666;-11
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2004;6,329040155;-10
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2005;9,029901024;-9
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2006;8,739143523;-8
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2007;3,44637335;-7
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2008;3,664850284;-6
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2009;3,732976212;-5
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2011;3,211768038;-3
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2010;8,301659756;-4
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2012;9,28010609;-2
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2013;4,593562823;-1
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2014;4,367464077;0
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2015;3785000;1
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2016;4133000;2
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2017;4794000;3
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2018;5358000;4
+Brazil;BRA;International tourism, number of arrivals;ST.INT.ARVL;2019;5017000;5
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2002;5026000;-12
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2003;5050000;-11
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2004;4802000;-10
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2005;5433000;-9
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2006;5161000;-8
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2007;5677000;-7
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2008;5813000;-6
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2009;6430000;-5
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2011;6306000;-3
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2010;6547000;-4
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2012;6589000;-2
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2013;6621000;-1
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2014;6353000;0
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2015;#VALOR!;1
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2016;#VALOR!;2
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2017;#VALOR!;3
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2018;#VALOR!;4
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2019;#VALOR!;5
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2020;17,44907948;6
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2021;16,8566884;7
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2022;17,91256834;8
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2023;17,20488345;9
+Brazil;BRA;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2024;17,81647388;10
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2002;19,81932598;-4
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2003;21,61938285;-3
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2004;18,79613503;-2
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2005;21,82627112;-1
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2006;21,80132156;0
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2007;21,41722537;1
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2008;21,69376696;2
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2009;20,54841076;3
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2011;17,41162587;5
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2010;14,96954697;4
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2012;14,6255876;6
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2013;15,09504163;7
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2014;15,5167908;8
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2015;16,1158206;9
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2016;19,52188502;10
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2017;18,08822044;11
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2018;15,76064721;12
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2019;16,9814356;13
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2020;2,10235E+12;14
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2021;2,53472E+12;15
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2022;2,85232E+12;16
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2023;2,89339E+12;17
+Germany;DEU;GDP (current US$);NY.GDP.MKTP.CD;2024;3,04631E+12;18
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2002;3,48406E+12;-4
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2003;3,8082E+12;-3
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2004;3,47855E+12;-2
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2005;3,82358E+12;-1
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2006;3,46709E+12;0
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2007;3,59648E+12;1
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2008;3,80702E+12;2
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2009;3,96487E+12;3
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2011;3,4251E+12;5
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2010;3,53679E+12;4
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2012;3,76535E+12;6
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2013;4,05543E+12;7
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2014;3,95989E+12;8
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2015;3,9414E+12;9
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2016;4,35525E+12;10
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2017;4,20102E+12;11
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2018;4,56221E+12;12
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2019;4,68559E+12;13
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2020;-0,228255716;14
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2021;-0,529801394;15
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2022;1,162086845;16
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2023;0,885485293;17
+Germany;DEU;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2024;3,866682415;18
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2002;2,889117414;-4
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2003;0,887902331;-3
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2004;-5,544554519;-2
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2005;3,757968845;-1
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2006;4,134637785;0
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2007;0,463512037;1
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2008;0,396995584;2
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2009;2,180186022;3
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2011;1,663006023;5
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2010;2,222222163;4
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2012;2,797906721;6
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2013;1,135696046;7
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2014;0,977734697;8
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2015;-4,131914432;9
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2016;3,909999942;10
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2017;1,809258124;11
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2018;-0,869647579;12
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2019;-0,495851897;13
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2020;25486,5942;14
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2021;30711,10225;15
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2022;34566,73591;16
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2023;35084,43635;17
+Germany;DEU;GDP per capita (current US$);NY.GDP.PCAP.CD;2024;36980,33499;18
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2002;42350,92172;-4
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2003;46379,1648;-3
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2004;42471,88686;-2
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2005;47630,97619;-1
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2006;42396,9666;0
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2007;44718,01592;1
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2008;47206,83535;2
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2009;48959,59912;3
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2011;41929,75491;5
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2010;42948,93819;4
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2012;45553,93415;6
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2013;48916,16866;7
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2014;47656,19974;8
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2015;47394,87345;9
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2016;52349,246;10
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2017;50506,51796;11
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2018;54776,76682;12
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2019;56103,73232;13
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2020;8,482;14
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2021;9,779;15
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2022;10,727;16
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2023;11,193;17
+Germany;DEU;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2024;10,277;18
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2002;8,732;-4
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2003;7,508;-3
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2004;7,88;-2
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2005;5,967;-1
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2006;7,043;0
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2007;5,372;1
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2008;5,316;2
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2009;4,979;3
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2011;4,612;5
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2010;4,104;4
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2012;3,781;6
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2013;3,384;7
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2014;3,163;8
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2015;3,881;9
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2016;3,594;10
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2017;3,137;11
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2018;3,071;12
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2019;3,4;13
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2020;1,420806156;14
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2021;1,034222186;15
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2022;1,665736967;16
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2023;1,546911148;17
+Germany;DEU;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2024;1,577426428;18
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2002;2,298344007;-4
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2003;2,628379816;-3
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2004;0,312739007;-2
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2005;2,075172837;-1
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2006;1,103810378;0
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2007;2,008488848;1
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2008;1,504723303;2
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2009;0,906794;3
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2011;0,514426137;5
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2010;0,491747008;4
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2012;1,509494851;6
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2013;1,732168798;7
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2014;1,445659769;8
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2015;0,144877926;9
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2016;3,066666667;10
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2017;6,872574386;11
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2018;5,946436677;12
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2019;2,256498143;13
+Germany;DEU;International tourism, number of arrivals;ST.INT.ARVL;2020;17969000;14
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2002;18399000;-4
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2003;20137000;-3
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2004;21500000;-2
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2005;23569000;-1
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2006;24421000;0
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2007;24884000;1
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2008;24220000;2
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2009;28374000;3
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2011;26875000;5
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2010;30411000;4
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2012;31545000;6
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2013;32999000;7
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2014;34970000;8
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2015;35555000;9
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2016;37452000;10
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2017;38881000;11
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2018;39563000;12
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2019;12449000;13
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2020;#VALOR!;14
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2021;#VALOR!;15
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2022;#VALOR!;16
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2023;#VALOR!;17
+Germany;DEU;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2024;20,1517523;18
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2002;19,57662631;-8
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2003;19,02138646;-7
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2004;18,73552593;-6
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2005;19,89794657;-5
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2006;20,78734335;-4
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2007;20,88673299;-3
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2008;18,00643151;-2
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2009;21,26698727;-1
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2011;19,53106001;1
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2010;19,47247149;0
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2012;19,78838157;2
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2013;20,13948875;3
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2014;19,49780209;4
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2015;19,71225678;5
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2016;20,6909763;6
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2017;21,65036415;7
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2018;21,38125905;8
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2019;21,72903046;9
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2020;22,67305572;10
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2021;23,27601463;11
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2022;21,99428343;12
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2023;21,49943289;13
+South Africa;ZAF;GDP (current US$);NY.GDP.MKTP.CD;2024;1,29088E+11;14
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2002;1,97019E+11;-8
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2003;2,55807E+11;-7
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2004;2,88867E+11;-6
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2005;3,03859E+11;-5
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2006;3,33077E+11;-4
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2007;3,16131E+11;-3
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2008;3,29754E+11;-2
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2009;4,58199E+11;-1
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2011;4,17364E+11;1
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2010;4,34401E+11;0
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2012;4,00886E+11;2
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2013;3,81199E+11;3
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2014;3,4671E+11;4
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2015;3,23586E+11;5
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2016;3,81449E+11;6
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2017;4,05261E+11;7
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2018;3,8933E+11;8
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2019;3,37975E+11;9
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2020;4,19986E+11;10
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2021;4,07596E+11;11
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2022;3,81441E+11;12
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2023;4,01145E+11;13
+South Africa;ZAF;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2024;3,700374404;14
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2002;2,949075468;-8
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2003;4,554559907;-7
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2004;5,277051973;-6
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2005;5,603806459;-5
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2006;5,360474054;-4
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2007;3,191043886;-3
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2008;-1,538089135;-2
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2009;3,168556279;-1
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2011;3,039732881;1
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2010;2,396232385;0
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2012;2,485468008;2
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2013;1,413826452;3
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2014;1,321862237;4
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2015;0,664552308;5
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2016;1,157946952;6
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2017;1,556783847;7
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2018;0,259935577;8
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2019;-6,168917715;9
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2020;4,858648651;10
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2021;2,058136617;11
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2022;0,806104551;12
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2023;0,534843532;13
+South Africa;ZAF;GDP per capita (current US$);NY.GDP.PCAP.CD;2024;2688,23676;14
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2002;4062,21756;-8
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2003;5221,463337;-7
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2004;5836,876633;-6
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2005;6077,382934;-5
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2006;6591,85536;-4
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2007;6184,754743;-3
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2008;6374,7056;-2
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2009;8646,055711;-1
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2011;7973,471958;1
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2010;8076,976785;0
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2012;7331,654674;2
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2013;6856,731371;3
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2014;6112,273825;4
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2015;5651,205852;5
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2016;6618,335083;6
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2017;6914,178032;7
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2018;6533,71121;8
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2019;5580,603831;9
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2020;6828,756246;10
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2021;6534,248678;11
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2022;6034,27209;12
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2023;6267,186814;13
+South Africa;ZAF;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2024;22,579;14
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2002;22,679;-8
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2003;22,567;-7
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2004;22,472;-6
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2005;22,304;-5
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2006;22,26;-4
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2007;22,407;-3
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2008;23,523;-2
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2009;24,639;-1
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2011;24,683;1
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2010;24,727;0
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2012;24,561;2
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2013;24,89;3
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2014;25,149;4
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2015;26,536;5
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2016;27,035;6
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2017;26,906;7
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2018;28,468;8
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2019;29,217;9
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2020;34,007;10
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2021;33,268;11
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2022;32,098;12
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2023;32,279;13
+South Africa;ZAF;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2024;9,494713781;14
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2002;5,679424141;-8
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2003;-0,692039438;-7
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2004;2,062853082;-6
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2005;3,243907654;-5
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2006;6,177812148;-4
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2007;9,90998456;-3
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2008;7,238095238;-2
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2009;5,000853388;-1
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2011;4,06749556;1
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2010;5,737971391;0
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2012;5,780169101;2
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2013;6,132829531;3
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2014;4,518690949;4
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2015;6,602908424;5
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2016;5,186186555;6
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2017;4,509872649;7
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2018;4,102850755;8
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2019;3,232388316;9
+South Africa;ZAF;International tourism, number of arrivals;ST.INT.ARVL;2020;4,618745449;10
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2002;7,039872725;-8
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2003;6,075243846;-7
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2004;4,361152465;-6
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2005;6550000;-5
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2006;6640000;-4
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2007;6815000;-3
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2008;7518000;-2
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2009;8509000;-1
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2011;9208000;1
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2010;9729000;0
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2012;9532000;2
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2013;12097000;3
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2014;11303000;4
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2015;13069000;5
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2016;14318000;6
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2017;14530000;7
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2018;13952000;8
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2019;15121000;9
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2020;14975000;10
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2021;15004000;11
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2022;14797000;12
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2023;3886600,098;13
+South Africa;ZAF;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2024;#VALOR!;14
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2002;#VALOR!;-16
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2003;#VALOR!;-15
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2004;#VALOR!;-14
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2005;15,03611966;-13
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2006;15,65711453;-12
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2007;16,96035132;-11
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2008;16,83181534;-10
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2009;18,49020269;-9
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2011;19,32596508;-7
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2010;21,28724912;-8
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2012;18,7669442;-6
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2013;18,85323766;-5
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2014;17,5956446;-4
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2015;18,58453544;-3
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2016;19,16876259;-2
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2017;18,48796382;-1
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2018;18,63320666;0
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2019;16,96045229;1
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2020;16,61073406;2
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2021;16,17058298;3
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2022;15,82079338;4
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2023;12,34554415;5
+Russian Federation;RUS;GDP (current US$);NY.GDP.MKTP.CD;2024;12,83555223;6
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2002;15,6721093;-16
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2003;15,3913175;-15
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2004;14,06955088;-14
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2005;3,4547E+11;-13
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2006;4,30347E+11;-12
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2007;5,91017E+11;-11
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2008;7,64016E+11;-10
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2009;9,89932E+11;-9
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2011;1,2997E+12;-7
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2010;1,66085E+12;-8
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2012;1,22265E+12;-6
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2013;2,04592E+12;-5
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2014;1,52492E+12;-4
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2015;2,20829E+12;-3
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2016;2,29247E+12;-2
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2017;2,05924E+12;-1
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2018;1,36348E+12;0
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2019;1,27679E+12;1
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2020;1,5742E+12;2
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2021;1,65733E+12;3
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2022;1,69312E+12;4
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2023;1,49308E+12;5
+Russian Federation;RUS;GDP growth (annual %);NY.GDP.MKTP.KD.ZG;2024;1,82919E+12;6
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2002;2,29161E+12;-16
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2003;2,07151E+12;-15
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2004;2,17384E+12;-14
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2005;4,699991909;-13
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2006;7,299952345;-12
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2007;7,19994787;-11
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2008;6,399965448;-10
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2009;8,200068255;-9
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2011;8,499977769;-7
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2010;5,199969264;-8
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2012;-7,799993913;-6
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2013;4,300029186;-5
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2014;4,499999999;-4
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2015;4,024086157;-3
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2016;1,755422149;-2
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2017;0,736267222;-1
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2018;-1,972719226;0
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2019;0,193690071;1
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2020;1,825790064;2
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2021;2,807245411;3
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2022;2,198075713;4
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2023;-2,653654501;5
+Russian Federation;RUS;GDP per capita (current US$);NY.GDP.PCAP.CD;2024;5,866491773;6
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2002;-1,435882139;-16
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2003;4,082524813;-15
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2004;4,344374755;-14
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2005;2377,529541;-13
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2006;2975,123047;-12
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2007;4102,364746;-11
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2008;5323,455078;-10
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2009;6920,199707;-9
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2011;9101,239258;-7
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2010;11635,28418;-8
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2012;8562,824219;-6
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2013;14305,33203;-5
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2014;10674,99023;-4
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2015;15401,85156;-3
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2016;15941,44824;-2
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2017;14055,47266;-1
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2018;9277,713867;0
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2019;8663,158203;1
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2020;10658,91309;2
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2021;11211,8877;3
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2022;11447,70117;4
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2023;10108,32715;5
+Russian Federation;RUS;Unemployment, total (% of total labor force) (modeled ILO estimate);SL.UEM.TOTL.ZS;2024;12425,0293;6
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2002;15619,61426;-16
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2003;14159,3877;-15
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2004;14889,01855;-14
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2005;7,875;-13
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2006;8,21;-12
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2007;7,763;-11
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2008;7,124;-10
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2009;7,055;-9
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2011;6,002;-7
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2010;6,205;-8
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2012;8,301;-6
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2013;6,571;-5
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2014;7,407;-4
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2015;5,484;-3
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2016;5,513;-2
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2017;5,212;-1
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2018;5,615;0
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2019;5,591;1
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2020;5,238;2
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2021;4,871;3
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2022;4,513;4
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2023;5,62;5
+Russian Federation;RUS;Inflation, consumer prices (annual %);FP.CPI.TOTL.ZG;2024;4,749;6
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2002;3,867;-16
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2003;3,076;-15
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2004;2,43;-14
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2005;15,78873079;-13
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2006;13,66329302;-12
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2007;10,88861573;-11
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2008;12,68530395;-10
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2009;9,668654548;-9
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2011;9,007298689;-7
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2010;14,11076778;-8
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2012;11,64732958;-6
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2013;8,440464859;-5
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2014;6,849392303;-4
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2015;5,074743008;-3
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2016;6,754668339;-2
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2017;7,8201697;-1
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2018;15,53439599;0
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2019;7,042437254;1
+Russian Federation;RUS;International tourism, number of arrivals;ST.INT.ARVL;2020;3,683330723;2
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2002;2,878313826;-16
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2003;4,472026318;-15
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2004;3,382197969;-14
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2005;6,69445892;-13
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2006;13,74367974;-12
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2007;5,865719317;-11
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2008;8,434864105;-10
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2009;23309000;-9
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2011;22521000;-7
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2010;22064000;-8
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2012;22201000;-6
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2013;22486000;-5
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2014;22909000;-4
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2015;23676000;-3
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2016;21339000;-2
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2017;24932000;-1
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2018;22281000;0
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2019;28177000;1
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2020;30792000;2
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2021;32421000;3
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2022;33729000;4
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2023;24571000;5
+Russian Federation;RUS;Gross capital formation (% of GDP);NE.GDI.TOTL.ZS;2024;;6
